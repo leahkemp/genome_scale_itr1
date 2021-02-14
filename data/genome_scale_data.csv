@@ -1,0 +1,7 @@
+﻿species,genetic_data_type,base_pairs
+human,gene,8400
+human,exome,30000000
+human,genome,3200000000
+virus,gene,300
+virus,exome,1000
+virus,genome,3000
